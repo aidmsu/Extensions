@@ -9,6 +9,7 @@
     <VersionSuffix>$(PreReleaseVersionLabel)</VersionSuffix>
     <DotNetUseShippingVersions>true</DotNetUseShippingVersions>
     <UsingToolNetFrameworkReferenceAssemblies>true</UsingToolNetFrameworkReferenceAssemblies>
+    <UsingToolMicrosoftNetCompilers>false</UsingToolMicrosoftNetCompilers>
   </PropertyGroup>
 
   <PropertyGroup>

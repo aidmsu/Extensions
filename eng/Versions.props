@@ -45,7 +45,6 @@
     <SystemValueTuplePackageVersion>4.5.0</SystemValueTuplePackageVersion>
   </PropertyGroup>
 
-
   <ItemGroup>
     <DotNetRuntime Include="$(MicrosoftNETCoreAppPackageVersion)" />
     <DotNetRuntime Include="$(MicrosoftNETCoreApp20PackageVersion)" />

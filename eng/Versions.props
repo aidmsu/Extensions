@@ -7,7 +7,6 @@
     <VersionPrefix>$(MajorVersion).$(MinorVersion).$(PatchVersion)</VersionPrefix>
     <PreReleaseVersionLabel>preview</PreReleaseVersionLabel>
     <VersionSuffix>$(PreReleaseVersionLabel)</VersionSuffix>
-    <DotNetUseShippingVersions>true</DotNetUseShippingVersions>
     <UsingToolNetFrameworkReferenceAssemblies>true</UsingToolNetFrameworkReferenceAssemblies>
   </PropertyGroup>
 
